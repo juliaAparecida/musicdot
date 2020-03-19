@@ -1,0 +1,60 @@
+
+.rodape {
+    padding: 2em 5%;
+    text-align: center;
+    font-size:  0.7em;
+}
+
+.rodape__logo {
+    width: 11.25em;
+    margin-bottom: 1rem;
+}
+
+.rodape__endereco {
+    width: 21.5rem;
+    font-size: .8rem;
+    line-height: 1.25;
+    color: #3D3D3D; 
+}
+
+
+.rodape__sessao + .rodape__sessao {
+    margin-top: 2em;
+}
+
+.rodape__lista-medias-sociais {
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
+}
+
+.rodape__item-medias-sociais {
+    width: 2.62em;
+    margin: 0 .25em;
+}
+
+.rodape__item-medias-sociais img {
+    width: 100%
+}
+
+.rodape__titulo {
+    font-size: 1.45em;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #2D5377;
+    margin-bottom: 1rem;
+}
+
+.rodape__item-lista {
+    font-weight: 500;
+    margin: 0.625em 0;
+}
+
+.rodape__item-lista a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: .8rem;
+    color: #3D3D3D;
+}
+
+
