@@ -22,18 +22,18 @@
     margin-top: 2em;
 }
 
-.rodape__lista-medias-sociais {
+.rodape__lista-midias-sociais {
     display: flex;
     justify-content: center;
     margin: 1rem 0;
 }
 
-.rodape__item-medias-sociais {
+.rodape__item-midias-sociais {
     width: 2.62em;
     margin: 0 .25em;
 }
 
-.rodape__item-medias-sociais img {
+.rodape__item-midias-sociais img {
     width: 100%
 }
 
